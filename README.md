@@ -1,2 +1,2 @@
 # CRUD_operations_In_ADO.NET
-I this Repository, I Added CRUD(Create, Retrieve, Update, Delete) operations on Employee database table using ADO.NET . 
+In this Repository, I have performed CRUD(CREATE, READ, UPDATE, DELETE) operations on Employee database table using ADO.NET . 
